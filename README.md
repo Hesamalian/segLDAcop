@@ -5,7 +5,7 @@ To run the code, it needs to have toy_dataset.text as an example and vocabulary.
 
 You can run the code simply by:
 
-python Coplda.py [path2train] [Number of topics] [Number of iterations] [Removing stop words]
+python segLDAcop.py [path2train] [Number of topics] [Number of iterations] [Removing stop words]
 
 For instance:
 
